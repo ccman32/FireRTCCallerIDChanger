@@ -231,20 +231,6 @@ echo 'Successfully changed your Caller ID'
             }
         }
 
-        private string getStringFromKeyEventArgs(KeyEventArgs args)
-        {
-            KeysConverter converter = new KeysConverter();
-
-            return converter.ConvertToInvariantString(args.KeyData);
-        }
-
-        private Keys getKeysFromString(string keys)
-        {
-            KeysConverter converter = new KeysConverter();
-
-            return (Keys)converter.ConvertFromInvariantString(keys);
-        }
-
         private void MainForm_Load(object sender, EventArgs e)
         {
             if (!File.Exists(taguiName))
