@@ -25,6 +25,6 @@ The program has three settings which you can configure:
 
 ![alt tag](https://i.imgur.com/JCFT5yf.png)
 
-- Click on the tray icon of the program to change your FireRTC Caller ID.
+- Click on the tray icon of the program to change your FireRTC Caller ID
 - Alternatively you can right click the tray icon and click on "Change Caller ID"
 - To open the settings again, right click the tray icon and click on "Open Settings"
