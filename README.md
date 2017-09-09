@@ -29,9 +29,10 @@ The program has three settings which you can configure:
 - Alternatively you can right click the tray icon and click on "Change Caller ID"
 - To open the settings again, right click the tray icon and click on "Open Settings"
 
-HOW TO COMPILE THE PROGRAM
+HOW TO COMPILE THE PROGRAM AND CREATE A SETUP
 -----
 
+Please ensure that you already compiled the solution of this program before following the further instructions of this section.
 In order to compile the program, you will need to download the latest release of "TagUI" from https://raw.githubusercontent.com/tebelorg/Tump/master/TagUI_Windows.zip.
 After downloading, open the zip file and extract the content (should be a folder named "tagui") into the folder in which the content of this repository is located in.
 After doing that, navigate into the "Install" folder of this repository and compile the "FireRTC Caller ID Changer.iss" file.
